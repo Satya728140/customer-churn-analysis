@@ -1,0 +1,4 @@
+Customer Churn Analysis & Prediction
+Stack: Python, Pandas, scikit-learn, PostgreSQL SQL, Power BI
+Dataset: 1,500 synthetic customer rows. Target: churn (0/1).
+Run: pip install -r requirements.txt; python src/train_model.py; python src/predict_customer.py
